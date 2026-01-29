@@ -17,7 +17,7 @@ https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://fl1.moveonjoy.com/COZI_TV/index.m3u8
 #EXTINF:-1 tvg-id="Deal or No Deal (1080p)"tvg-logo="https://i.imgur.com/lZvNXA1.png"group-title="Series":http-referrer="":http-user-agent="",Deal or No Deal (1080p)
 https://amg00627-banijaygroup-dealornodeal-samsungau-si7xg.amagi.tv/playlist/amg00627-banijaygroup-dealornodeal-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="FETV Family Entertainment Television"tvg-logo="https://media.starlite.best/fetv.family.entertainment.television.us.png"group-title="US":http-referrer="":http-user-agent="",FETV Family Entertainment Television
+#EXTINF:-1 tvg-id="FETV Family Entertainment Television" tvg-logo="https://media.starlite.best/fetv.family.entertainment.television.us.png" group-title="US" http-referrer="" http-user-agent="",FETV Family Entertainment Television
 https://tvnow.best/api/stream/closl@live.com/233834/livetv.epg/fetv.family.entertainment.television.us.m3u8
 #EXTINF:-1 tvg-id="Food Network USA Eastern Feed"tvg-logo=""group-title="Live":http-referrer="":http-user-agent="",Food Network USA Eastern Feed
 https://tvpass.org/live/FoodNetworkEast/sd
