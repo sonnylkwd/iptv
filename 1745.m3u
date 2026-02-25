@@ -13,7 +13,8 @@ https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
 https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cops (720p)"tvg-logo="https://i.imgur.com/J3XO6V2.png"group-title="Series":http-referrer="":http-user-agent="",Cops (720p)
 https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Cozi TV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png"group-title="Entertainment":http-referrer="":http-user-agent="",Cozi TV
+#EXTINF:-1 tvg-id="CoziTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Cozi_TV_logo.svg",Cozi TV (Working)
+https://dai.google.com/linear/hls/event/CoziTV/master.m3u8
 https://fl1.moveonjoy.com/COZI_TV/index.m3u8
 #EXTINF:-1 tvg-id="Deal or No Deal (1080p)"tvg-logo="https://i.imgur.com/lZvNXA1.png"group-title="Series":http-referrer="":http-user-agent="",Deal or No Deal (1080p)
 https://amg00627-banijaygroup-dealornodeal-samsungau-si7xg.amagi.tv/playlist/amg00627-banijaygroup-dealornodeal-samsungau/playlist.m3u8
