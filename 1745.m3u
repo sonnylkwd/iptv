@@ -1,99 +1,167 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Undefined":http-referrer="":http-user-agent="",00s Replay
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
-#EXTINF:-1 tvg-id="30A Darcizzle Offshore (720p)"tvg-logo="https://i.imgur.com/Q4l2uao.png"group-title="Outdoor":http-referrer="":http-user-agent="",30A Darcizzle Offshore (720p)
+#EXTM3U
+
+#EXTINF:-1 tvg-id="30adarcizzleoffshore.us" tvg-logo="https://i.imgur.com/Q4l2uao.png" group-title="United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 tvg-id="AE.us@East"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png"group-title="Entertainment":http-referrer="":http-user-agent="",A&E East (720p) [Not 24/7]
+
+#EXTINF:-1 tvg-id="70scinema.us" tvg-logo="https://i.imgur.com/mgXeEE4.png" group-title="United States",70s Cinema
+https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
+
+#EXTINF:-1 tvg-id="80srewind.us" tvg-logo="https://i.imgur.com/nkEeYfI.png" group-title="United States",80s Rewind
+https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
+
+#EXTINF:-1 tvg-id="90sthrowback.us" tvg-logo="https://i.imgur.com/KoGko6M.png" group-title="United States",90s Throwback
+https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
+
+#EXTINF:-1 tvg-id="ae.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="United States",A&E East (720p) [Not 24/7]
 https://tvpass.org/live/AEEast/hd
-#EXTINF:-1 tvg-id="ABC (KABC) Los Angeles"tvg-logo=""group-title="Live":http-referrer="":http-user-agent="",ABC (KABC) Los Angeles
-https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
-#EXTINF:-1 tvg-id="CBS (KCBS) Los Angeles"tvg-logo=""group-title="Live":http-referrer="":http-user-agent="",CBS (KCBS) Los Angeles
-https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
-#EXTINF:-1 tvg-id="Cinevault Westerns (540p) [Geo-blocked]"tvg-logo="https://i.imgur.com/K1W137J.png"group-title="Classic":http-referrer="":http-user-agent="",Cinevault Westerns (540p) [Geo-blocked]
-https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Cops (720p)"tvg-logo="https://i.imgur.com/J3XO6V2.png"group-title="Series":http-referrer="":http-user-agent="",Cops (720p)
+
+#EXTINF:-1 tvg-id="barrescue.us" tvg-logo="https://i.imgur.com/WFgWGPb.png" group-title="United States",Bar Rescue
+https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8
+
+#EXTINF:-1 tvg-id="baywatch.us" tvg-logo="https://i.imgur.com/c2esKHg.png" group-title="United States",Baywatch (1080p)
+https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cbsnewslosangeles.us" tvg-logo="https://i.imgur.com/klULxMV.png" group-title="United States",CBS News Los Angeles (720p)
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+
+#EXTINF:-1 tvg-id="charge.us" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="United States",Charge! (1080p)
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+
+#EXTINF:-1 tvg-id="cinevault80s.us" tvg-logo="https://i.imgur.com/xaCyyDd.png" group-title="United States",Cinevault 80s (720p)
+https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cinevaultwesterns.us" tvg-logo="https://i.imgur.com/K1W137J.png" group-title="United States",Cinevault Westerns (720p)
+https://aegis-cloudfront-1.tubi.video/72b8dd6b-391b-401c-a3e4-03f9c29555c8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="classictvcomedy.us" tvg-logo="https://i.imgur.com/wg5I5Fb.png" group-title="United States",Classic TV Comedy
+https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
+
+#EXTINF:-1 tvg-id="classictvdrama.us" tvg-logo="https://i.imgur.com/XHQxv0x.png" group-title="United States",Classic TV Drama
+https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8
+
+#EXTINF:-1 tvg-id="classictvfamilies.us" tvg-logo="https://i.imgur.com/llAZ49f.png" group-title="United States",Classic TV: Families
+https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
+
+#EXTINF:-1 tvg-id="cops.us" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="United States",Cops (720p)
 https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Cozi TV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png"group-title="Entertainment":http-referrer="":http-user-agent="",Cozi TV
-https://fl1.moveonjoy.com/COZI_TV/index.m3u8
-#EXTINF:-1 tvg-id="Deal or No Deal (1080p)"tvg-logo="https://i.imgur.com/lZvNXA1.png"group-title="Series":http-referrer="":http-user-agent="",Deal or No Deal (1080p)
+
+#EXTINF:-1 tvg-id="cozitv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/960px-Cozi_TV_logo.svg.png" group-title="United States",Cozi TV
+http://173.225.32.123/Cozi-2358/index.m3u8
+
+#EXTINF:-1 tvg-id="dealornodeal.us" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="United States",Deal or No Deal (1080p)
 https://amg00627-banijaygroup-dealornodeal-samsungau-si7xg.amagi.tv/playlist/amg00627-banijaygroup-dealornodeal-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="FETV Family Entertainment Television" tvg-logo="https://media.starlite.best/fetv.family.entertainment.television.us.png" group-title="US" http-referrer="" http-user-agent="",FETV Family Entertainment Television
-https://tvnow.best/api/stream/closl@live.com/233834/livetv.epg/fetv.family.entertainment.television.us.m3u8
-#EXTINF:-1 tvg-id="Food Network USA Eastern Feed"tvg-logo=""group-title="Live":http-referrer="":http-user-agent="",Food Network USA Eastern Feed
-https://tvpass.org/live/FoodNetworkEast/sd
-#EXTINF:-1 tvg-id="FOX (KTTV) Los Angeles"tvg-logo=""group-title="Live":http-referrer="":http-user-agent="",FOX (KTTV) Los Angeles
-https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
-#EXTINF:-1 tvg-id="FYI USA Eastern"tvg-logo=""group-title="Live":http-referrer="":http-user-agent="",FYI USA Eastern
-https://tvpass.org/live/FYIEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/Uuc5h1s.png"group-title="Entertainment":http-referrer="":http-user-agent="",Game Show Central
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e90e8cb05d2b0007f10a61/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=06d7c73f-91e9-44c5-868e-5336253a1d67
-#EXTINF:-1 tvg-id="Game Show Network East (720p) [Not 24/7]"tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg"group-title="Entertainment":http-referrer="":http-user-agent="",Game Show Network East (720p) [Not 24/7]
+
+#EXTINF:-1 tvg-id="dogthebountyhunter.us" tvg-logo="https://i.imgur.com/lMICupK.png" group-title="United States",Dog the Bounty Hunter (1080p)
+https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
+
+#EXTINF:-1 tvg-id="filmriseclassictv.us" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="United States",FilmRise Classic TV (720p)
+https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
+
+#EXTINF:-1 tvg-id="filmisewestern.us" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="United States",FilmRise Westerns (720p)
+https://dz05z8iljgvbe.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="gameshowcentral.us" tvg-logo="https://i.imgur.com/Uuc5h1s.png" group-title="United States",Game Show Central (720p)
+https://aegis-cloudfront-1.tubi.video/55c4e96c-e345-486c-8f61-8320b61d734d/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg" group-title="United States",Game Show Network East (720p) [Not 24/7]
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="GetTV (480p)"tvg-logo="https://i.imgur.com/evOWORd.png"group-title="Entertainment":http-referrer="":http-user-agent="",GetTV (480p)
-https://fl1.moveonjoy.com/GET_TV/index.m3u8
-#EXTINF:-1 tvg-id="Golf Channel USA"tvg-logo=""group-title="Live":http-referrer="":http-user-agent="",Golf Channel USA
-https://tvpass.org/live/GolfChannel/sd
-#EXTINF:-1 tvg-id="Grit (720p)"tvg-logo="https://i.imgur.com/6w1Wj3j.png"group-title="Entertainment":http-referrer="":http-user-agent="",Grit (720p)
-https://fl1.moveonjoy.com/GRIT_TV/index.m3u8
-#EXTINF:-1 tvg-id="Gunsmoke.us@SD"tvg-logo="https://i.imgur.com/OxUS1Hq.png"group-title="Series":http-referrer="":http-user-agent="",Gunsmoke
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e916affb29c60007211c8a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1595266f-ecb0-4af0-bab6-40b7d0586999
-#EXTINF:-1 tvg-id="Heroes &amp; Icons Network"tvg-logo="https://media.starlite.best/hi.heroes.icons.network.us.png"group-title="US":http-referrer="":http-user-agent="",Heroes &amp; Icons Network
-https://tvnow.best/api/stream/closl@live.com/233834/livetv.epg/hi.heroes.icons.network.us.m3u8
-#EXTINF:-1 tvg-id="Homeful (1080p)"tvg-logo=""group-title="Undefined":http-referrer="":http-user-agent="",Homeful (1080p)
-https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="INSP"tvg-logo="https://i.imgur.com/YgOC51j.png"group-title="Entertainment":http-referrer="":http-user-agent="",INSP
-https://fl1.moveonjoy.com/INSP/index.m3u8
-#EXTINF:-1 tvg-id="MeTV (720p)"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png"group-title="Entertainment":http-referrer="":http-user-agent="",MeTV (720p)
-https://fl61.moveonjoy.com/ME_TV/index.m3u8
-#EXTINF:-1 tvg-id="NBC (KNBC) Los Angeles"tvg-logo=""group-title="Live":http-referrer="":http-user-agent="",NBC (KNBC) Los Angeles
-https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
-#EXTINF:-1 tvg-id="Undefined"tvg-logo=""group-title="":http-referrer="":http-user-agent="",Rawhide
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65660223635c3c00086c2578/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bdb40-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85823e0a-69bc-4cfd-9626-cb87aab91a02
-#EXTINF:-1 tvg-id="Undefined"tvg-logo=""group-title="":http-referrer="":http-user-agent="",Rawhide
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634f307c7a068e00072c9982/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6278-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d9433765-7aeb-4cd3-9244-281a4bcdc393
-#EXTINF:-1 tvg-id="Spectrum SportsNet LA"tvg-logo=""group-title="Live":http-referrer="":http-user-agent="",Spectrum SportsNet LA
-https://tvpass.org/live/spectrum-sportsnet-la/sd
-#EXTINF:-1 tvg-id="Spectrum Sportsnet Lakers"tvg-logo=""group-title="Live":http-referrer="":http-user-agent="",Spectrum Sportsnet Lakers
-https://tvpass.org/live/spectrum-sportsnet/sd
-#EXTINF:-1 tvg-id="SundanceTV USA East"tvg-logo=""group-title="Live":http-referrer="":http-user-agent="",SundanceTV USA East
-https://tvpass.org/live/SundanceTVEast/sd
-#EXTINF:-1 tvg-id="Undefined"tvg-logo=""group-title="":http-referrer="":http-user-agent="",Supermarket Sweep [Geo-blocked]
-https://amg00145-letsplayinc-supermarketswep-xumo-59bvy.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Undefined"tvg-logo=""group-title="":http-referrer="":http-user-agent="",Supermarket Sweep (1080p) [Geo-blocked]
-https://amg00145-buzzr-bigballs-supermarket-rokuus-iqx8g.amagi.tv/playlist/amg00145-buzzr-bigballs-supermarket-rokuus/playlist.m3u8
-#EXTINF:-1 tvg-id="Undefined"tvg-logo=""group-title="":http-referrer="":http-user-agent="",Supermarket Sweep (1080p) [Geo-blocked]
-https://aegis-cloudfront-1.tubi.video/4541ec70-497a-4a92-87cf-50258fbab999/playlist.m3u8
-#EXTINF:-1 tvg-id="Classic"tvg-logo=""group-title="":http-referrer="https://i.imgur.com/1QpMJJT.png":http-user-agent="TheAndyGriffithShow.us@SD",The Andy Griffith Show
-#EXTVLCOPT:http-user-agent=TheAndyGriffithShow.us@SD
-#EXTVLCOPT:http-referrer=https://i.imgur.com/1QpMJJT.png
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e9145ec07f2a00070e68dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c2967-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fbed224a-3b63-4abd-b7a5-8676931b8711
-#EXTINF:-1 tvg-id="Undefined"tvg-logo=""group-title="":http-referrer="":http-user-agent="",The Lone Ranger
-https://xumo-xumoent-ch829-wojlf.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="Series"tvg-logo=""group-title="":http-referrer="https://i.imgur.com/60YejJs.png":http-user-agent="TheRifleman.us@SD",The Rifleman
-#EXTVLCOPT:http-user-agent=TheRifleman.us@SD
-#EXTVLCOPT:http-referrer=https://i.imgur.com/60YejJs.png
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e825550e758c700077b0aef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a0e1d4cf-0753-4230-a880-33a0b95d08bf
-#EXTINF:-1 tvg-id="Classic"tvg-logo=""group-title="":http-referrer="https://i.imgur.com/VNNS4mF.png":http-user-agent="TVLand.us@East",TV Land
-#EXTVLCOPT:http-user-agent=TVLand.us@East
-#EXTVLCOPT:http-referrer=https://i.imgur.com/VNNS4mF.png
-https://fl1.moveonjoy.com/TV_LAND/index.m3u8
-#EXTINF:-1 tvg-id="Movies"tvg-logo=""group-title="":http-referrer="https://i.imgur.com/y1rXIAS.png":http-user-agent="TVLandDrama.us@SD",TV Land Drama
-#EXTVLCOPT:http-user-agent=TVLandDrama.us@SD
-#EXTVLCOPT:http-referrer=https://i.imgur.com/y1rXIAS.png
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e762bb7-572b-4470-87fd-b3b4bb48462e
-#EXTINF:-1 tvg-id="Comedy"tvg-logo=""group-title="":http-referrer="https://i.imgur.com/phHHs7l.png":http-user-agent="TVLandSitcoms.us@SD",TV Land Sitcoms
-#EXTVLCOPT:http-user-agent=TVLandSitcoms.us@SD
-#EXTVLCOPT:http-referrer=https://i.imgur.com/phHHs7l.png
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b42011ce-d42f-4692-bb1d-2fe02741437a
-#EXTINF:-1 tvg-id="Universal Westerns"tvg-logo=""group-title="Undefined":http-referrer="":http-user-agent="",Universal Westerns
-https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="Series"tvg-logo=""group-title="":http-referrer="https://i.imgur.com/0N7EhuD.png":http-user-agent="WalkerTexasRanger.us@Canada",Walker Texas Ranger
-#EXTVLCOPT:http-user-agent=WalkerTexasRanger.us@Canada
-#EXTVLCOPT:http-referrer=https://i.imgur.com/0N7EhuD.png
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/635659445b4c4700076d2ad1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e94-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36e2f6bf-cd8e-44d2-ad1e-a5747a670d91
-#EXTINF:-1 tvg-id="Series"tvg-logo=""group-title="":http-referrer="https://i.imgur.com/0N7EhuD.png":http-user-agent="WalkerTexasRanger.us@France",Walker Texas Ranger
-#EXTVLCOPT:http-user-agent=WalkerTexasRanger.us@France
-#EXTVLCOPT:http-referrer=https://i.imgur.com/0N7EhuD.png
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afa749ac7f3200078adb40/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb4-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=53334da2-2bf6-4492-9d72-20248eaff31c
-#EXTINF:-1 tvg-id="Wanted: Dead or Alive (720p)"tvg-logo="https://i.imgur.com/vaSXaFp.png"group-title="Classic":http-referrer="":http-user-agent="",Wanted: Dead or Alive (720p)
-https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8
+
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-logo="https://i.imgur.com/Lgux6Ik.png" group-title="United States",Golf Channel (1080p) [Not 24/7]
+https://tvpass.org/live/GolfChannel/hd
+
+#EXTINF:-1 tvg-id="gritxtra.us" tvg-logo="" group-title="United States",Grit Xtra (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="grjngowesternmovies.us" tvg-logo="https://i.imgur.com/wFqhK3p.png" group-title="United States",Grjngo Western Movies (720p)
+https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gunsmoke.us" tvg-logo="https://i.imgur.com/OxUS1Hq.png" group-title="United States",Gunsmoke
+https://jmp2.uk/plu-68503d1736c9361b191e7d89.m3u8
+
+#EXTINF:-1 tvg-id="matlock.us" tvg-logo="https://i.imgur.com/BGFUQsu.png" group-title="United States",Matlock
+https://jmp2.uk/plu-6850426e53d981d1fdb0d966.m3u8
+
+#EXTINF:-1 tvg-id="theandygriffithshow.us" tvg-logo="https://i.imgur.com/1QpMJJT.png" group-title="United States",The Andy Griffith Show
+https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
+
+#EXTINF:-1 tvg-id="therifleman.us" tvg-logo="https://i.imgur.com/60YejJs.png" group-title="United States",The Rifleman
+https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8
+
+#EXTINF:-1 tvg-id="tvlanddrama.us" tvg-logo="https://i.imgur.com/y1rXIAS.png" group-title="United States",TV Land Drama
+https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
+
+#EXTINF:-1 tvg-id="tvlandsitcoms.us" tvg-logo="https://i.imgur.com/phHHs7l.png" group-title="United States",TV Land Sitcoms
+https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
+
+#EXTINF:-1 tvg-id="americanninjawarrior.us" tvg-logo="" group-title="Undefined",American Ninja Warrior
+https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="bestofbobbyflay.us" tvg-logo="" group-title="Undefined",Best of Bobby Flay by Food Network
+https://jmp2.uk/plu-68bb167e00a2f063fdf7ee8f.m3u8
+
+#EXTINF:-1 tvg-id="bonanza.us" tvg-logo="" group-title="Undefined",Bonanza
+https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
+
+#EXTINF:-1 tvg-id="bonanza2.us" tvg-logo="" group-title="Undefined",Bonanza
+https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
+
+#EXTINF:-1 tvg-id="chefvschef.us" tvg-logo="" group-title="Undefined",Chef vs Chef by Food Network
+https://jmp2.uk/plu-68bb16a500a2f063fdf89f8c.m3u8
+
+#EXTINF:-1 tvg-id="copsalt1.us" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="Undefined",COPS
+https://jmp2.uk/plu-6400bc50953da40008b94668.m3u8
+
+#EXTINF:-1 tvg-id="copsalt2.us" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="Undefined",COPS
+https://jmp2.uk/plu-6554bd45aa9ffb00088e5589.m3u8
+
+#EXTINF:-1 tvg-id="copsalt3.us" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="Undefined",COPS
+https://jmp2.uk/plu-6419ab7c9189ce000865a469.m3u8
+
+#EXTINF:-1 tvg-id="copsalt4.us" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="Undefined",COPS
+https://jmp2.uk/plu-6400bdb1219c4c00081751aa.m3u8
+
+#EXTINF:-1 tvg-id="copsalt5.us" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="Undefined",COPS
+https://jmp2.uk/plu-6400be67219c4c00081755d3.m3u8
+
+#EXTINF:-1 tvg-id="cops.poland" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="Undefined",COPS (Poland Feed)
+https://a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/playlist.m3u8
+
+#EXTINF:-1 tvg-id="deliciouseats.us" tvg-logo="" group-title="Undefined",Delicious Eats by Food Network
+https://jmp2.uk/plu-68bb16ba3efb41cd971f3ce6.m3u8
+
+#EXTINF:-1 tvg-id="diagnosismurder1.us" tvg-logo="" group-title="Undefined",Diagnosis Murder
+https://jmp2.uk/plu-65fd548f29adfd00089c662c.m3u8
+
+#EXTINF:-1 tvg-id="diagnosismurder2.us" tvg-logo="" group-title="Undefined",Diagnosis Murder
+https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8
+
+#EXTINF:-1 tvg-id="diagnosismurder3.us" tvg-logo="" group-title="Undefined",Diagnosis Murder
+https://jmp2.uk/plu-668bf91208d5490008065ffd.m3u8
+
+#EXTINF:-1 tvg-id="diagnosismurder4.us" tvg-logo="" group-title="Undefined",Diagnosis Murder
+https://jmp2.uk/plu-668bf9be0642e5000815102d.m3u8
+
+#EXTINF:-1 tvg-id="homecooking.us" tvg-logo="" group-title="Undefined",Home Cooking by Food Network
+https://jmp2.uk/plu-68bb16916523408b14bac7f8.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
